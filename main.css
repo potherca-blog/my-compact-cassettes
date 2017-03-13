@@ -1,14 +1,37 @@
+.compact-cassettes h3 {
+  border-left: 1px solid;
+  border-top: 1px solid;
+  clear: both;
+  font-size: 400%;
+  left: -1.5em;
+  margin-bottom: -1.5em;
+  padding-left: 0.2em;
+  position: relative;
+  width: 1em;
+}
+
+.compact-cassettes ul {
+  list-style: none;
+}
+
+.compact-cassettes dt {
+  clear: both;
+}
+
 .compact-cassettes dd {
-  display: inline-block;
+  display: block;
+  float: left;
 }
 
 .compact-cassettes dd a {
+  background-repeat: no-repeat;
   background-size: contain;
+  border: 1px solid #CCC;
+  color: rgba(100%, 100%, 100%, 0);
   display: block;
   height: 10em;
   outline: 1px dotted;
   width: 10em;
-  color: rgba(100%, 100%, 100%, 0);
 }
 
 .compact-cassettes dd a[href=""] {
@@ -24,8 +47,10 @@
 
 .markdown-body {
   box-sizing: border-box;
-  min-width: 200px;
-  max-width: 980px;
   margin: 0 auto;
+  max-width: 980px;
+  min-width: 200px;
   padding: 45px;
 }
+
+/*EOF*/
