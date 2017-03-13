@@ -1,0 +1,13 @@
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+timezone: Europe/Amsterdam
+
+webrick:
+  headers:
+    # For more information on the Clacks header see: http://www.gnuterrypratchett.com/#apache
+    X-Clacks-Overhead: GNU Terry Pratchett
