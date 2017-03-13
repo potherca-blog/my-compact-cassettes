@@ -49,64 +49,64 @@ safely throw them away and replace them by digital versions.
   <li><h3>A</h3>
 
     <dl>
-      <dt><a href="https://play.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE">A-Ha</a></dt>
-        <dd><a href="https://play.spotify.com/album/6lka22PtQOmCt5ri8GPSZm">Stay on these roads</a></dd>
-      <dt><a href="https://play.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7">Arrested Development</a></dt>
-        <dd><a href="https://play.spotify.com/album/0h3rxIcX0RNqqeNdj9ngZB">Zingalamaduni</a></dd>
+      <dt><a href="https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE">A-Ha</a></dt>
+        <dd><a href="https://open.spotify.com/album/6lka22PtQOmCt5ri8GPSZm">Stay on these roads</a></dd>
+      <dt><a href="https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7">Arrested Development</a></dt>
+        <dd><a href="https://open.spotify.com/album/0h3rxIcX0RNqqeNdj9ngZB">Zingalamaduni</a></dd>
     </dl>
   </li>
   <li><h3>B</h3>
 
     <dl>
-      <dt><a href="https://play.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9">Bad Religion</a></dt>
-        <dd><a href="https://play.spotify.com/album/5SKn5YH5mWF0nvPTpLOmye">Stranger Than Fiction</a></dd>
-      <dt><a href="https://play.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG">Billy Idol</a></dt>
-        <dd><a href="https://play.spotify.com/album/7356ztInCyuUn4iQVdJxGy">Billy Idol</a></dd>
-        <dd><a href="https://play.spotify.com/album/2GWgADRfO423cyzHa1rKc5">Rebel Yell</a></dd>
-        <dd><a href="https://play.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se">Vital Idol</a></dd>
-        <dd><a href="https://play.spotify.com/album/3FQC7eHJ3dPT8wXc2yUbpX">Whiplash Smile</a></dd>
-      <dt><a href="https://play.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e">Billy Joel</a></dt>
-        <dd><a href="https://play.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc">An Innocent Man</a></dd>
-        <dd><a href="https://play.spotify.com/album/3IILMjMMnoN2sKzgesX8KV">The Stranger</a></dd>
-      <dt><a href="https://play.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA">Björk</a></dt>
-        <dd><a href="https://play.spotify.com/album/4ORsCg1x8p80RfW0vXA35N">Debut</a></dd>
-      <dt><a href="https://play.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD">Bob Marley</a></dt>
+      <dt><a href="https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9">Bad Religion</a></dt>
+        <dd><a href="https://open.spotify.com/album/5SKn5YH5mWF0nvPTpLOmye">Stranger Than Fiction</a></dd>
+      <dt><a href="https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG">Billy Idol</a></dt>
+        <dd><a href="https://open.spotify.com/album/7356ztInCyuUn4iQVdJxGy">Billy Idol</a></dd>
+        <dd><a href="https://open.spotify.com/album/2GWgADRfO423cyzHa1rKc5">Rebel Yell</a></dd>
+        <dd><a href="https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se">Vital Idol</a></dd>
+        <dd><a href="https://open.spotify.com/album/3FQC7eHJ3dPT8wXc2yUbpX">Whiplash Smile</a></dd>
+      <dt><a href="https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e">Billy Joel</a></dt>
+        <dd><a href="https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc">An Innocent Man</a></dd>
+        <dd><a href="https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV">The Stranger</a></dd>
+      <dt><a href="https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA">Björk</a></dt>
+        <dd><a href="https://open.spotify.com/album/4ORsCg1x8p80RfW0vXA35N">Debut</a></dd>
+      <dt><a href="https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD">Bob Marley</a></dt>
         <dd><a href="">Lively Up Yourself</a></dd>
     </dl>
   </li>
   <li><h3>C</h3>
 
     <dl>
-      <dt><a href="https://play.spotify.com/artist/545idYhdloaSlLGBY8E9u2">Cameo</a></dt>
+      <dt><a href="https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2">Cameo</a></dt>
         <dd><a href="">Machismo</a></dd>
-      <dt><a href="https://play.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9">The Cranberries</a></dt>
-        <dd><a href="https://play.spotify.com/album/1TUVgGasFeCmA6T3fd9AHk">No Need To Argue</a></dd>
+      <dt><a href="https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9">The Cranberries</a></dt>
+        <dd><a href="https://open.spotify.com/album/1TUVgGasFeCmA6T3fd9AHk">No Need To Argue</a></dd>
     </dl>
   </li>
   <li><h3>D</h3>
 
     <dl>
-      <dt><a href="https://play.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T">Dire Straits</a></dt>
-        <dd><a href="https://play.spotify.com/album/104hTimjqMxVk3qH8Nf7I4">On every street</a></dd>
-      <dt><a href="https://play.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb">Donald Fagen</a></dt>
-        <dd><a href="https://play.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8">The Nightfly</a></dd>
-      <dt><a href="https://play.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE">Doe Maar</a></dt>
+      <dt><a href="https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T">Dire Straits</a></dt>
+        <dd><a href="https://open.spotify.com/album/104hTimjqMxVk3qH8Nf7I4">On every street</a></dd>
+      <dt><a href="https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb">Donald Fagen</a></dt>
+        <dd><a href="https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8">The Nightfly</a></dd>
+      <dt><a href="https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE">Doe Maar</a></dt>
         <dd><a href="">De Beste</a></dd>
-      <dt><a href="https://play.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt">The Doors</a></dt>
-        <dd><a href="https://play.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn">The Doors</a></dd>
-        <dd><a href="https://play.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf">Strange Days</a></dd>
-        <dd><a href="https://play.spotify.com/album/0qZTwrunzX3LG45PvRghmh">Waiting for the Sun</a></dd>
-        <dd><a href="https://play.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI">The Soft Parade</a></dd>
-        <dd><a href="https://play.spotify.com/album/6AFLOkpJjFF652jevcSOZX">Morrison Hotel</a></dd>
-        <dd><a href="https://play.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS">L.A> Woman</a></dd>
+      <dt><a href="https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt">The Doors</a></dt>
+        <dd><a href="https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn">The Doors</a></dd>
+        <dd><a href="https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf">Strange Days</a></dd>
+        <dd><a href="https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh">Waiting for the Sun</a></dd>
+        <dd><a href="https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI">The Soft Parade</a></dd>
+        <dd><a href="https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX">Morrison Hotel</a></dd>
+        <dd><a href="https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS">L.A> Woman</a></dd>
         <dd><a href="">In Concert</a></dd>
     </dl>
   </li>
   <li><h3>E</h3>
 
     <dl>
-      <dt><a href="https://play.spotify.com/artist/6M0BcAcPSDpABYnNPf8oQE">Ekseption</a></dt>
-        <dd><a href="https://play.spotify.com/album/0dBzZ506I8PXqVcvipvqOI">Ekseption</a></dd>
+      <dt><a href="https://open.spotify.com/artist/6M0BcAcPSDpABYnNPf8oQE">Ekseption</a></dt>
+        <dd><a href="https://open.spotify.com/album/0dBzZ506I8PXqVcvipvqOI">Ekseption</a></dd>
       <dt><a href="">Emmerson, Lake & Palmer</a></dt>
         <dd><a href="">Brain Salad Surgery</a></dd>
       <dt><a href="">Eurythmics</a></dt>
@@ -165,8 +165,8 @@ safely throw them away and replace them by digital versions.
   <li><h3>J</h3>
 
     <dl>
-      <dt><a href="https://play.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W">Jim Morrison</a></dt>
-        <dd><a href="https://play.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ">An american Prayer</a></dd>
+      <dt><a href="https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W">Jim Morrison</a></dt>
+        <dd><a href="https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ">An american Prayer</a></dd>
       <dt><a href="">Joy Division</a></dt>
         <dd><a href="">Closer</a></dd>
     </dl>
@@ -347,7 +347,7 @@ safely throw them away and replace them by digital versions.
   Array.prototype.forEach.call(
     p_oRoot.document.querySelectorAll('dd a'), function (p_oNode) {
       if (p_oNode.href !== p_oRoot.location.href) {
-        p_oSpotify.getAlbum(p_oNode.href.replace('https://play.spotify.com/album/', ''))
+        p_oSpotify.getAlbum(p_oNode.href.replace('https://open.spotify.com/album/', ''))
         .then(function (p_oData) {
           p_oNode.style.backgroundImage = 'url(' + p_oData.images[0].url + ')';
         })
