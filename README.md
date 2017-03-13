@@ -17,7 +17,32 @@ versions.
 This page contains the full list of all the compact cassettes I have in my
 possession. All the albums that are available on Spotify link there.
 
-<!-- @TODO: toc -->
+## Table of Contents
+
+- [Artists](#artists)
+  - [A](#a)
+  - [B](#b)
+  - [C](#c)
+  - [D](#d)
+  - [E](#e)
+  - [F](#f)
+  - [G](#g)
+  - [H](#h)
+  - [I](#i)
+  - [J](#j)
+  - [L](#l)
+  - [M](#m)
+  - [N](#n)
+  - [O](#o)
+  - [P](#p)
+  - [Q](#q)
+  - [R](#r)
+  - [S](#s)
+  - [T](#t)
+  - [U](#u)
+  - [W](#w)
+- [Various Artists](#various-artists)
+- [Soundtracks](#soundtracks)
 
 ## Artists
 - ### A
@@ -297,7 +322,7 @@ possession. All the albums that are available on Spotify link there.
         <dd><a href="https://open.spotify.com/album/7IN49KlyQgSZaLEs5S2uWD">Conscience</a></dd>
     </dl>
 
-- ### Various Artists
+- ## Various Artists
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of">Various Artists</a></dt>
@@ -306,7 +331,7 @@ possession. All the albums that are available on Spotify link there.
     </dl>
 
 
-- ### Soundtracks
+- ## Soundtracks
 
     <dl>
       <dt><a>Soundtracks</a></dt>
@@ -320,4 +345,3 @@ possession. All the albums that are available on Spotify link there.
         <dd><a href="https://open.spotify.com/album/4KFyuG1e7yTOknV9Pm893S">The Lost Boys Original Motion Picture Soundtrack</a></dd>
         <dd><a href="https://open.spotify.com/album/0oDldtN1DXlRFL0zNfc1ux">The Muppet Movie (Original Motion Picture Soundtrack)</a></dd>
     </dl>
-
