@@ -1,10 +1,6 @@
 ---
 permalink: /
 ---
-<!doctype html>
-<html>
-
-<meta charset="utf-8" />
 <title>My Compact Cassettes</title>
 <link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
 
@@ -45,7 +41,7 @@ permalink: /
 <p>
 This page contains a list of the collection of tapes (compact cassettes) I
 have in my possession. By listing them and linking them to Spotify, I can
-savely throw them away and replace them by digital versions.
+safely throw them away and replace them by digital versions.
 </p>
 
 <h2>Artists</h2>
