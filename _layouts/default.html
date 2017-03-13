@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>My Compact Cassettes</title>
+
+  <link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+  <link rel="stylesheet" href="./main.css">
+</head>
+<body class="markdown-body compact-cassettes">
+  {{ content }}
+</body>
+
+<script src="https://rawgit.com/JMPerez/spotify-web-api-js/master/src/spotify-web-api.js">
+  /*https://github.com/JMPerez/spotify-web-api-js*/
+</script>
+<script>
+/* @TODO: Aggregate all Album IDs and use `getAlbums` as to only make one call to spotify. */
+(function (p_oRoot, p_oSpotify){
+  Array.prototype.forEach.call(
+    p_oRoot.document.querySelectorAll('dd a'), function (p_oNode) {
+
+      p_oNode.title = p_oNode.innerText;
+
+      if (p_oNode.href !== p_oRoot.location.href) {
+        p_oSpotify.getAlbum(p_oNode.href.replace('https://open.spotify.com/album/', ''))
+        .then(function (p_oData) {
+          p_oNode.style.backgroundImage = 'url(' + p_oData.images[0].url + ')';
+        })
+        .catch(function (p_oError) {
+          console.warn(p_oError);
+        });
+      }
+    }
+  );
+}(window, new SpotifyWebApi()));
+</script>

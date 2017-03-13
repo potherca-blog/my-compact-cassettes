@@ -1,35 +1,26 @@
 ---
 permalink: /
 ---
-<title>My Compact Cassettes</title>
 
-<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
-<link rel="stylesheet" href="./main.css">
+# Tapes
 
-<body class="markdown-body compact-cassettes">
-<h1>Tapes</h1>
-<p>
-  One day, when clearing out the shed, I came across my old collection of
-  compact cassettes. I no longer have a cassette player. Even if I did, I didn't
-  know what state the tapes were in. So I decided to see if all of my old tapes
-  are available on <a href="https://www.spotify.com">Spotify</a>.
-</p>
+## Introduction
 
-<p>
-  I wondered if I could safely throw them away and replace them with digital
-  versions.
-</p>
+One day, when clearing out the shed, I came across my old collection of compact
+cassettes. I no longer have a cassette player. Even if I did, I didn't know what
+state the tapes were in. So I decided to see if all of my old tapes are
+available on [Spotify](https://www.spotify.com).
 
-<p>
-  This page contains the full list of all the compact cassettes I have in my
-  possession. All the albums that are available on Spotify link there.
-</p>
+I wondered if I could safely throw them away and replace them with digital
+versions.
+
+This page contains the full list of all the compact cassettes I have in my
+possession. All the albums that are available on Spotify link there.
 
 <!-- @TODO: toc -->
 
-<h2>Artists</h2>
-<ul>
-  <li><h3>A</h3>
+## Artists
+- ### A
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE">A-Ha</a></dt>
@@ -37,8 +28,8 @@ permalink: /
       <dt><a href="https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7">Arrested Development</a></dt>
         <dd><a href="https://open.spotify.com/album/0h3rxIcX0RNqqeNdj9ngZB">Zingalamaduni</a></dd>
     </dl>
-  </li>
-  <li><h3>B</h3>
+
+- ### B
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9">Bad Religion</a></dt>
@@ -56,8 +47,8 @@ permalink: /
       <dt><a href="https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD">Bob Marley</a></dt>
         <dd><a href="https://open.spotify.com/album/1WwIml28YqDQoB0p4BWAcI">Lively Up Yourself</a></dd>
     </dl>
-  </li>
-  <li><h3>C</h3>
+
+- ### C
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2">Cameo</a></dt>
@@ -65,8 +56,8 @@ permalink: /
       <dt><a href="https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9">The Cranberries</a></dt>
         <dd><a href="https://open.spotify.com/album/1TUVgGasFeCmA6T3fd9AHk">No Need To Argue</a></dd>
     </dl>
-  </li>
-  <li><h3>D</h3>
+
+- ### D
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy">David Bowie</a></dt>
@@ -88,8 +79,8 @@ permalink: /
         <dd><a href="https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS">L.A> Woman</a></dd>
         <dd><a href="https://open.spotify.com/album/7teTxSPnJrpRoi7BxJ9qTC">American Nights - In Concert</a></dd>
     </dl>
-  </li>
-  <li><h3>E</h3>
+
+- ### E
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/6M0BcAcPSDpABYnNPf8oQE">Ekseption</a></dt>
@@ -99,8 +90,8 @@ permalink: /
       <dt><a href="https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB">Eurythmics</a></dt>
         <dd><a href="https://open.spotify.com/album/1D5FZTvG2Ijkuyk55hQVh2">Sweet Dreams (Are Made Of This)</a></dd>
     </dl>
-  </li>
-  <li><h3>F</h3>
+
+- ### F
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5">Faith No More</a></dt>
@@ -112,8 +103,8 @@ permalink: /
       <dt><a href="">Fungus</a></dt>
         <dd><a href="">Fungus</a></dd>
     </dl>
-  </li>
-  <li><h3>G</h3>
+
+- ### G
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q">Garbage</a></dt>
@@ -129,8 +120,8 @@ permalink: /
         <dd><a href="https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h">Use you illision I</a></dd>
         <dd><a href="https://open.spotify.com/album/5NL0MCTSbQtO13G62ofWAf">Use you illision II</a></dd>
     </dl>
-  </li>
-  <li><h3>H</h3>
+
+- ### H
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/6IDifUtaIPK4yuAiq5W2iG">Holly Johnson</a></dt>
@@ -140,8 +131,8 @@ permalink: /
         <dd><a href="https://open.spotify.com/album/1Qcm01jbFNqvPGDYlpsEDp">Same As It Ever Was</a></dd>
         <dd><a href="https://open.spotify.com/album/30aV7j1PgJc5w8xcAVMrKX">Truth Crushed To Earth Shall Rise Again</a></dd>
     </dl>
-  </li>
-  <li><h3>I</h3>
+
+- ### I
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4">Iggy Pop</a></dt>
@@ -150,8 +141,8 @@ permalink: /
         <dd><a href="https://open.spotify.com/album/7pDimu8peaQdohMsp9a5P3">Live Baby Live</a></dd>
         <dd><a href="https://open.spotify.com/album/5UwPVDV9uWbBrCuCXrSrBB">Welcome to Wherever You Are</a></dd>
     </dl>
-  </li>
-  <li><h3>J</h3>
+
+- ### J
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W">Jim Morrison</a></dt>
@@ -159,8 +150,8 @@ permalink: /
       <dt><a href="https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5">Joy Division</a></dt>
         <dd><a href="https://open.spotify.com/album/4kT3ewGWBRAOlocyVp03bm">Closer</a></dd>
     </dl>
-  </li>
-  <li><h3>L</h3>
+
+- ### L
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp">Led Zeppelin</a></dt>
@@ -168,8 +159,8 @@ permalink: /
         <dt><a href="https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7">Lenny Kravitz</a></dt>
         <dd><a href="https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb">Let Love Rule</a></dd>
     </dl>
-  </li>
-  <li><h3>M</h3>
+
+- ### M
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2">Mano Negra</a></dt>
@@ -185,8 +176,8 @@ permalink: /
       <dt><a href="https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA">Melissa Etheridge</a></dt>
         <dd><a href="https://open.spotify.com/album/3MXJCdWsm7n1vYteZWShTq">Never Enough</a></dd>
     </dl>
-  </li>
-  <li><h3>N</h3>
+
+- ### N
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD">Neneh Cherry</a></dt>
@@ -203,8 +194,8 @@ permalink: /
       <dt><a href="https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh">Nirvana</a></dt>
         <dd><a href="https://open.spotify.com/album/1wLrhzJuAk44iVGRQnG6Bz">Incesticide</a></dd>
     </dl>
-  </li>
-  <li><h3>O</h3>
+
+- ### O
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ">The Offspring</a></dt>
@@ -212,8 +203,8 @@ permalink: /
       <dt><a href="https://open.spotify.com/artist/3OMNuqaefKpUsINmjY7Hlq">Orson Welles</a></dt>
         <dd><a href="https://open.spotify.com/album/4F6m0aXlJL4q43EmCmie3J">War Of The Worlds</a></dd>
     </dl>
-  </li>
-  <li><h3>P</h3>
+
+- ### P
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56">Pearl Jam</a></dt>
@@ -229,15 +220,15 @@ permalink: /
         <dd><a href="https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK">Batman</a></dd>
         <dd><a href="https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc">Purple Rain</a></dd>
     </dl>
-  </li>
-  <li><h3>Q</h3>
+
+- ### Q
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d">Queen</a></dt>
         <dd><a href="https://open.spotify.com/album/3VWrUk4vBznMYXGMPc7dRB">Greatest Hits</a></dd>
     </dl>
-  </li>
-  <li><h3>R</h3>
+
+- ### R
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj">Rage Against the Machine</a></dt>
@@ -248,8 +239,8 @@ permalink: /
       <dt><a href="https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL">Right Said Fred</a></dt>
         <dd><a href="https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36">UP</a></dd>
     </dl>
-  </li>
-  <li><h3>S</h3>
+
+- ### S
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv">Seal</a></dt>
@@ -267,8 +258,8 @@ permalink: /
       <dt><a href="https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z">Stone Temple Pilots</a></dt>
         <dd><a href="https://open.spotify.com/album/7k1YOwYf369EX0aHeXApWp">Core</a></dd>
     </dl>
-  </li>
-  <li><h3>T</h3>
+
+- ### T
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey">Therapy?</a></dt>
@@ -282,8 +273,8 @@ permalink: /
         <dd><a href="https://open.spotify.com/album/52aOMxukBcqxxhzPszgKkJ">The Early Years Vol. 1</a></dd>
         <dd><a href="https://open.spotify.com/album/53fzZMZ3ENBY0BpLFOMy9p">The Early Years Vol. 2</a></dd>
     </dl>
-  </li>
-  <li><h3>U</h3>
+
+- ### U
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ">U2</a></dt>
@@ -295,8 +286,8 @@ permalink: /
         <dd><a href="https://open.spotify.com/album/6EPPqIvOhVEHVwV0wpofaV">Wide awake in America</a></dd>
         <dd><a href="https://open.spotify.com/album/27kWhG6vYQDkk0cIe8RXaZ">Zooropa</a></dd>
     </dl>
-  </li>
-  <li><h3>W</h3>
+
+- ### W
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG">"Weird Al" Yankovic</a></dt>
@@ -305,22 +296,20 @@ permalink: /
       <dt><a href="https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ">Womack & Womack</a></dt>
         <dd><a href="https://open.spotify.com/album/7IN49KlyQgSZaLEs5S2uWD">Conscience</a></dd>
     </dl>
-  </li>
-  <li><h3>Various Artists</h3>
+
+- ### Various Artists
 
     <dl>
       <dt><a href="https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of">Various Artists</a></dt>
         <dd><a href="https://open.spotify.com/album/27Ogp9xhId9ILQdl5Ze5v1">Jesus Christ Superstar</a></dd>
         <dd><a href="https://open.spotify.com/album/5Odk1ts5U7U5r9VoEZco26">The Beavis and Butt-Head Experience</a></dd>
     </dl>
-  </li>
-</ul>
 
-<h3>Soundtracks</h3>
-<ul>
-<li>
+
+- ### Soundtracks
+
     <dl>
-      <dt><a href="https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of">Various Artists</a></dt>
+      <dt><a>Soundtracks</a></dt>
         <dd><a href="https://open.spotify.com/album/00ukMDsiNBo3eQIrkt1RI7">Back to the Future</a></dd>
         <dd><a href="https://open.spotify.com/album/720Ay2IGVnl0A58DVo7VHv">Cotton Club</a></dd>
         <dd><a href="https://open.spotify.com/album/0MYjm9wrwKy3gReqioIgG7">Cry Freemdom</a></dd>
@@ -331,28 +320,4 @@ permalink: /
         <dd><a href="https://open.spotify.com/album/4KFyuG1e7yTOknV9Pm893S">The Lost Boys Original Motion Picture Soundtrack</a></dd>
         <dd><a href="https://open.spotify.com/album/0oDldtN1DXlRFL0zNfc1ux">The Muppet Movie (Original Motion Picture Soundtrack)</a></dd>
     </dl>
-  </li>
-</ul>
-</body>
 
-<script src="https://rawgit.com/JMPerez/spotify-web-api-js/master/src/spotify-web-api.js">
-  /*https://github.com/JMPerez/spotify-web-api-js*/
-</script>
-<script>
-/* @TODO: Aggregate all Album IDs and use `getAlbums` as to only make one call to spotify. */
-(function (p_oRoot, p_oSpotify){
-  Array.prototype.forEach.call(
-    p_oRoot.document.querySelectorAll('dd a'), function (p_oNode) {
-      if (p_oNode.href !== p_oRoot.location.href) {
-        p_oSpotify.getAlbum(p_oNode.href.replace('https://open.spotify.com/album/', ''))
-        .then(function (p_oData) {
-          p_oNode.style.backgroundImage = 'url(' + p_oData.images[0].url + ')';
-        })
-        .catch(function (p_oError) {
-          console.warn(p_oError);
-        });
-      }
-    }
-  );
-}(window, new SpotifyWebApi()));
-</script>
