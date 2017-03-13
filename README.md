@@ -209,6 +209,8 @@ permalink: /
     <dl>
       <dt><a href="https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ">The Offspring</a></dt>
         <dd><a href="https://open.spotify.com/album/6xkuVd7iJcSSJamThkWY0p">Smash</a></dd>
+      <dt><a href="https://open.spotify.com/artist/3OMNuqaefKpUsINmjY7Hlq">Orson Welles</a></dt>
+        <dd><a href="https://open.spotify.com/album/4F6m0aXlJL4q43EmCmie3J">War Of The Worlds</a></dd>
     </dl>
   </li>
   <li><h3>P</h3>
@@ -218,6 +220,8 @@ permalink: /
         <dd><a href="https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a">Ten</a></dd>
       <dt><a href="https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh">Pet Shop Boys</a></dt>
         <dd><a href="https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy">Discography - Complete Singles Collection</a></dd>
+      <dt><a href="https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9">Pink Floyd</a></dt>
+        <dd><a href="https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F">The Wall</a></dd>
       <dt><a href="https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE">The Police</a></dt>
         <dd><a href="https://open.spotify.com/album/2HPpGOkeO0y2I071Js9s1A">Every Breath You Take: The Classics</a></dd>
         <dd><a href="https://open.spotify.com/album/4dB2uBf7IEazBMreDVZmB2">Regatta de Blanc</a></dd>
