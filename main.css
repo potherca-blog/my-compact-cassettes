@@ -1,0 +1,31 @@
+.compact-cassettes dd {
+  display: inline-block;
+}
+
+.compact-cassettes dd a {
+  background-size: contain;
+  display: block;
+  height: 10em;
+  outline: 1px dotted;
+  width: 10em;
+  color: rgba(100%, 100%, 100%, 0);
+}
+
+.compact-cassettes dd a[href=""] {
+  background-color: black;
+  color: white;
+  display: table-cell;
+  font-size: 2em;
+  height: 5em;
+  text-align: center;
+  vertical-align: middle;
+  width: 5em;
+}
+
+.markdown-body {
+  box-sizing: border-box;
+  min-width: 200px;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 45px;
+}
