@@ -18,22 +18,36 @@
 <script>
 /* @TODO: Aggregate all Album IDs and use `getAlbums` as to only make one call to spotify. */
 (function (p_oRoot, p_oSpotify){
-  Array.prototype.forEach.call(
-    p_oRoot.document.querySelectorAll('dd a'), function (p_oNode) {
+  var oHash = {};
 
-      p_oNode.title = p_oNode.innerText;
+  p_oRoot.location.hash.substring(1).split('&').reduce(function (p_oPrevious, p_oCurrent) {
+    var aParts, sName, sValue;
+    aParts = p_oCurrent.split('=');
+    oHash[aParts[0]] = aParts[1];
+  }, {});
 
-      if (p_oNode.href !== p_oRoot.location.href) {
-        p_oSpotify.getAlbum(p_oNode.href.replace('https://open.spotify.com/album/', ''))
-        .then(function (p_oData) {
-          p_oNode.style.backgroundImage = 'url(' + p_oData.images[0].url + ')';
-        })
-        .catch(function (p_oError) {
-          console.warn(p_oError);
-        });
+  if (oHash.access_token === undefined) {
+    p_oRoot.location = 'https://accounts.spotify.com/authorize?client_id=695883b2c10c4c7181d1f536bf88964e&response_type=token&redirect_uri='+encodeURIComponent(p_oRoot.location);
+  } else {
+    p_oSpotify.setAccessToken(oHash.access_token);
+
+    Array.prototype.forEach.call(
+      p_oRoot.document.querySelectorAll('dd a'), function (p_oNode) {
+
+        p_oNode.title = p_oNode.innerText;
+
+        if (p_oNode.href !== p_oRoot.location.href) {
+          p_oSpotify.getAlbum(p_oNode.href.replace('https://open.spotify.com/album/', ''))
+          .then(function (p_oData) {
+            p_oNode.style.backgroundImage = 'url(' + p_oData.images[0].url + ')';
+          })
+          .catch(function (p_oError) {
+            console.warn(p_oError);
+          });
+        }
       }
-    }
-  );
+    );
+  }
 }(window, new SpotifyWebApi()));
 </script>
 </html>
