@@ -87,7 +87,6 @@ possession. All the albums that are available on Spotify link there.
     <dl>
       <dt><a href="https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy">David Bowie</a></dt>
         <dd><a href="https://open.spotify.com/album/5W1SppUwQbyyEaPaDSPxSO">Labyrinth</a></dd>
-
       <dt><a href="https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T">Dire Straits</a></dt>
         <dd><a href="https://open.spotify.com/album/104hTimjqMxVk3qH8Nf7I4">On every street</a></dd>
       <dt><a href="https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb">Donald Fagen</a></dt>
