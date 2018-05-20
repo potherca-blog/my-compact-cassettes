@@ -318,7 +318,7 @@ possession. All the albums that are available on Spotify link there.
         <dd><a href="https://open.spotify.com/album/6qr3P9IV7X8zSmRWUfKTNL">Off the deep end</a></dd>
         <dd><a href="https://open.spotify.com/album/2pHmvW8zaVfxHJaEjkeAsS">Even Worse</a></dd>
       <dt><a href="https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ">Womack & Womack</a></dt>
-        <dd><a href="https://open.spotify.com/album/7IN49KlyQgSZaLEs5S2uWD">Conscience</a></dd>
+        <dd><a href="https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W">Conscience</a></dd>
     </dl>
 
 - ## Various Artists
