@@ -1,0 +1,69 @@
+@startuml
+
+skinparam {
+    backgroundColor transparent
+
+    Sequence {
+        Group {
+            BodyBackgroundColor #ffffff88
+        }
+
+        Box {
+            FontColor white
+        }
+    }
+
+    participant {
+        backgroundColor white
+    }
+}
+
+actor User as user
+participant Dashboard as app
+
+box Spotify #2FE58F
+    participant "API" as api
+    participant "App" as spotify
+end box
+
+group Provide List
+    user o-> app: Visit app
+
+    activate app
+        user <-- app: Request list
+    deactivate app
+end
+
+group Visit Dashboard
+    user o-> app: Provide list
+
+    activate app
+        user <- app: Request authentication
+    deactivate app
+
+    activate user
+        user -> api: Authenticate with Spotify
+    deactivate user
+
+    activate api
+        app <-- api: Redirect to app
+    deactivate api
+
+    activate app
+        user <-- app: Show list as albums with links to Spotify App
+    deactivate app
+
+    deactivate user
+end
+
+group Listen to album
+    user o-> app: Click album link
+
+    app -> spotify: Open link in Spotify App
+
+    activate spotify
+        user <-- spotify: Play album 
+    deactivate spotify
+end
+
+@enduml
